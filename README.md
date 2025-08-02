@@ -11,10 +11,11 @@
 
 ## 🏆 Route Academy Experience
 
-- Gained practical experience in AI and machine learning concepts.
-- Worked on real-world projects and hands-on labs.
-- Collaborated with peers and mentors to solve challenging problems.
-- Enhanced teamwork, communication, and project management skills.
+- Currently gaining practical experience in artificial intelligence and machine learning concepts.
+- Working on real-world projects and hands-on labs to apply theoretical knowledge.
+- Collaborating with peers and mentors to solve challenging problems.
+- Enhancing skills in teamwork, communication, and project management
+
 
 ## 🛠️ Languages & Tools
 
